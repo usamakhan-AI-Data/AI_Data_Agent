@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-groq
+langchain-google-genai
+pandas
+psycopg2
+pydantic
+python-dotenv
